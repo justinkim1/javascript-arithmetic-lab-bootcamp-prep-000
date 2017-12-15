@@ -18,4 +18,5 @@ function inc(n) {
 }
 function makeInt(n) {
   return parseInt(n)
+  n= 10
 }
