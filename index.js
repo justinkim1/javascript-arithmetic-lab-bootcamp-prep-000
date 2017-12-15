@@ -11,5 +11,5 @@ function divide(a, b) {
   return (a/b)
 }
 function dec(n) {
-  return --n
+  return (--n)
 }
